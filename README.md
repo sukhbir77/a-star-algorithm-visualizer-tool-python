@@ -16,4 +16,4 @@ This visualization tool is built to showcase the A* pathfinding algorithm. It pr
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sukhbir77/A-Path-Finding-Algorithm-Visualizer.git
+   git clone https://github.com/sukhbir77/a-star-algorithm-visualizer-tool-python.git
